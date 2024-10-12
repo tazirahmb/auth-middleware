@@ -1,0 +1,16 @@
+{
+  "name": "react-auth",
+  "version": "1.0.0",
+  "description": "A React Middleware component to handle authentication seamlessly (including support for access level)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "authentication",
+    "react",
+    "access-level"
+  ],
+  "author": "tazirahmb",
+  "license": "ISC"
+}
